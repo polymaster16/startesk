@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.themebeyond.com	TRUE	/	FALSE	1999999999	_cfuvid	VB.hQpjFb3GYaW2rKF97Ps841XfzYNp_eTXbxtAevaw-1700303143521-0-604800000
+themebeyond.com	TRUE	/	FALSE	1999999999	SameSite	None
+
